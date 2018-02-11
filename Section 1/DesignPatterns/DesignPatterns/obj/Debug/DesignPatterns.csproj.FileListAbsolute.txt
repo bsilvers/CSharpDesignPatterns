@@ -1,0 +1,7 @@
+C:\work\udemy\C# DesignPatterns\Section 1\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\work\udemy\C# DesignPatterns\Section 1\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\work\udemy\C# DesignPatterns\Section 1\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\work\udemy\C# DesignPatterns\Section 1\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\work\udemy\C# DesignPatterns\Section 1\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\work\udemy\C# DesignPatterns\Section 1\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\work\udemy\C# DesignPatterns\Section 1\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
